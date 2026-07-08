@@ -7,3 +7,5 @@ infra/**/*.tfstate.backup
 venv/
 __pycache__/
 *.pyc
+retail_lakehouse/.databricks/
+retail_lakehouse/.venv/
