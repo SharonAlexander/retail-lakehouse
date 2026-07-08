@@ -1,0 +1,9 @@
+infra/**/.terraform/
+infra/**/.terraform.lock.hcl
+infra/**/*.tfstate
+infra/**/*.tfstate.backup
+.databricks/
+.venv/
+venv/
+__pycache__/
+*.pyc
